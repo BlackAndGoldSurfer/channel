@@ -13,6 +13,14 @@ acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="Movistar LaLiga [ES] FHD 25fps (2)"
 acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
+#EXTINF:-1 tvg-id="Movistar Liga de Campeones [ES] FHD 25fps"
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="Movistar Liga de Campeones [ES] FHD 25fps (2)"
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1 tvg-id="Movistar Deportes [ES] FHD 25fps"
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-id="Movistar Golf [ES] FHD 25fps"
+acestream://872608e734992db636eb79426802cd08f4029afb
 
 
 #EXTINF:-1 tvg-id="DAZN 1 [PT] FHD 25fps"
