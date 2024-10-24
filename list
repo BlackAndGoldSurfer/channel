@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TV BAR [ES] FHD 50fps"
+#EXTINF:-1 tvg-id="LaLiga TV Bar [ES] FHD 50fps"
 acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
-#EXTINF:-1 tvg-id="TV BAR [ES] FHD 50fps (2)"
+#EXTINF:-1 tvg-id="LaLiga TV Bar [ES] FHD 50fps (2)"
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-id="DAZN 1 [ES] FHD 50fps"
