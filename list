@@ -13,6 +13,8 @@ acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 4 [ES] FHD 50fps"
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="DAZN LaLiga [ES] FHD 50fps"
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a/
 #EXTINF:-1 tvg-id="DAZN F1 [ES] FHD 50fps"
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-id="DAZN F1 [ES] FHD 50fps (2)"
