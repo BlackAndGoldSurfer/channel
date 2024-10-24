@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV BAR [ES] FHD 50fps"
+acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
+#EXTINF:-1 tvg-id="TV BAR [ES] FHD 50fps (2)"
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
 #EXTINF:-1 tvg-id="DAZN 1 [ES] FHD 50fps"
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="DAZN 2 [ES] FHD 50fps"
@@ -8,6 +13,10 @@ acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 4 [ES] FHD 50fps"
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="DAZN F1 [ES] FHD 50fps"
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="DAZN F1 [ES] FHD 50fps (2)"
+acestream://9dad717d99b29a05672166258a77c25b57713dd5/
 
 #EXTINF:-1 tvg-id="Movistar LaLiga [ES] FHD 25fps"
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
@@ -21,6 +30,8 @@ acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="Movistar Golf [ES] FHD 25fps"
 acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-id="#Vamos [ES] FHD 25fps"
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 
 #EXTINF:-1 tvg-id="DAZN 1 [PT] FHD 25fps"
@@ -61,9 +72,6 @@ acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 
-
-
-
 #EXTINF:-1 tvg-id="ELEVEN 1 [PL] 4K 50fps"
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-id="ELEVEN 1 [PL] FHD 25fps"
@@ -97,11 +105,14 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="DAZN 2 Bar [DE] FHD 25fps"
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
+#EXTINF:-1 tvg-id="Sportdigital FUSSBALL TV [DE] FHD 25fps"
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+
 #EXTINF:-1 tvg-id="Sky Sports 1 [DE] FHD 50fps"
 acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
 #EXTINF:-1 tvg-id="Sky Sports 2 [DE] FHD 50fps" 
 acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 tvg-id"Sky Sports F1" FHD 50fps"
+#EXTINF:-1 tvg-id"Sky Sports F1 [DE]" FHD 50fps"
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
 
@@ -144,10 +155,31 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="Sky Sports Football [UK] FHD 50fps"
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id=" Sky Sports Arena [UK] FHD 50fps"
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="Sky Sports Cricket [UK] FHD 50fps"
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-id=" Sky Sports+ [UK] FHD 50fps"
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1 [FR] HD 25fps"
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="beIN SPORTS 2 [FR] HD 25fps"
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="beIN SPORTS 3 [FR] HD 25fps"
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1 [TR] HD 25fps"
+acestream://118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 tvg-id="beIN SPORTS 2 [TR] HD 25fps"
+acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1 tvg-id="beIN SPORTS 3 [TR] HD 25fps"
+acestream://ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-id="beIN SPORTS 4 [TR] HD 25fps"
+acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-id="beIN SPORTS HABER [TR] FHD 30fps"
+acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3
+
+#EXTINF:-1 tvg-id="Fast Sports [AR] FHD 25fps"
+acestream://ef21beeb62a9e431ef5f4acb83b4687c8d90e8b0
 
 
 
