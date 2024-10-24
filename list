@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Match! TV [RU] 1080p 50fps"
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-id="Match! Football 1 [RU] 1080p 50fps"
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id="Match! TV [RU] FHD 25fps"
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="Match! Football 1 [RU] FHD 25fps"
@@ -125,6 +118,12 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 
 
+#EXTINF:-1 tvg-id="Tennis Channel [UK] HD 25fps"
+acestream://dfa141e0b9a34165cb7ff9b3789d6e87d2524e32
+#EXTINF:-1 tvg-id="Tennis Channel [UK] HD 25fps (2)"
+acestream://52a526d748e26ff0827635b3932d9f49aee14a25
+
+
 #EXTINF:-1 tvg-id="DAZN 1 [ES] FHD 50fps"
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="DAZN 2 [ES] FHD 50fps"
@@ -133,3 +132,4 @@ acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 4 [ES] FHD 50fps"
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+
